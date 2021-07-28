@@ -17,12 +17,6 @@
       "details": "I need to practice!",
       "complete": false,
       "id": 3
-    },
-    {
-      "title": "Test this planner",
-      "details": "I should keep testing this",
-      "complete": true,
-      "id": 4
     }
   ]
 }
